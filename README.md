@@ -29,3 +29,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 13:59:55 - extended explanation
 2026-02-13 14:00:03 - added clarification
 2026-02-13 14:00:10 - improved phrasing
+2026-02-13 14:00:17 - minor text cleanup
