@@ -50,3 +50,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 14:02:27 - added contextual note
 2026-02-13 14:02:34 - adjusted wording
 2026-02-13 14:02:42 - extended explanation
+2026-02-13 14:02:49 - adjusted wording
