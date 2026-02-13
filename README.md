@@ -175,3 +175,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 19:13:37 - minor text cleanup
 2026-02-13 19:13:44 - extended explanation
 2026-02-13 19:13:52 - extended explanation
+2026-02-13 19:13:59 - added contextual note
