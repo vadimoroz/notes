@@ -161,3 +161,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 19:11:53 - added contextual note
 2026-02-13 19:12:00 - added contextual note
 2026-02-13 19:12:08 - extended explanation
+2026-02-13 19:12:15 - minor text cleanup
