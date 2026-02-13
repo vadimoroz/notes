@@ -199,3 +199,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 19:16:32 - refined summary
 2026-02-13 19:16:39 - added contextual note
 2026-02-13 19:16:47 - adjusted wording
+2026-02-13 19:16:54 - added clarification
