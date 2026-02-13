@@ -45,3 +45,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 14:01:51 - added contextual note
 2026-02-13 14:01:58 - expanded paragraph
 2026-02-13 14:02:06 - added clarification
+2026-02-13 14:02:13 - minor text cleanup
