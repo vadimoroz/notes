@@ -236,3 +236,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 19:21:03 - adjusted wording
 2026-02-13 19:21:11 - added clarification
 2026-02-13 19:21:18 - extended explanation
+2026-02-13 19:21:25 - expanded paragraph
