@@ -308,3 +308,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 23:18:32 - added clarification
 2026-02-13 23:18:39 - refined summary
 2026-02-13 23:18:47 - minor text cleanup
+2026-02-13 23:18:54 - added contextual note
