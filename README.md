@@ -26,3 +26,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 13:59:34 - adjusted wording
 2026-02-13 13:59:41 - added contextual note
 2026-02-13 13:59:48 - minor text cleanup
+2026-02-13 13:59:55 - extended explanation
