@@ -188,3 +188,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 19:15:12 - improved phrasing
 2026-02-13 19:15:19 - minor text cleanup
 2026-02-13 19:15:26 - added clarification
+2026-02-13 19:15:34 - added clarification
