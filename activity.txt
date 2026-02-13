@@ -427,3 +427,4 @@ init
 2026-02-13 16:25:53 - improved phrasing
 2026-02-13 16:26:00 - added clarification
 2026-02-13 16:26:07 - added contextual note
+2026-02-13 16:26:15 - minor text cleanup
