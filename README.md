@@ -31,3 +31,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 14:00:10 - improved phrasing
 2026-02-13 14:00:17 - minor text cleanup
 2026-02-13 14:00:24 - extended explanation
+2026-02-13 14:00:31 - added clarification
