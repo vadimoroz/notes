@@ -17,3 +17,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 13:58:28 - added contextual note
 2026-02-13 13:58:35 - restructured sentence
 2026-02-13 13:58:42 - restructured sentence
+2026-02-13 13:58:50 - extended explanation
