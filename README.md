@@ -314,3 +314,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 23:19:16 - adjusted wording
 2026-02-13 23:19:23 - added contextual note
 2026-02-13 23:19:30 - minor text cleanup
+2026-02-13 23:19:37 - added clarification
