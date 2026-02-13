@@ -55,3 +55,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 14:03:03 - minor text cleanup
 2026-02-13 14:03:10 - added clarification
 2026-02-13 14:03:18 - minor text cleanup
+2026-02-13 14:03:25 - refined summary
