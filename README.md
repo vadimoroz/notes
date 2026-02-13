@@ -48,3 +48,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 14:02:13 - minor text cleanup
 2026-02-13 14:02:20 - restructured sentence
 2026-02-13 14:02:27 - added contextual note
+2026-02-13 14:02:34 - adjusted wording
