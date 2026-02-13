@@ -310,3 +310,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 23:18:47 - minor text cleanup
 2026-02-13 23:18:54 - added contextual note
 2026-02-13 23:19:01 - added clarification
+2026-02-13 23:19:08 - expanded paragraph
