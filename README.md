@@ -107,3 +107,4 @@ Created on 2026-02-13 10:16:11
 2026-02-13 16:31:24 - added contextual note
 2026-02-13 16:31:32 - extended explanation
 2026-02-13 16:31:39 - improved phrasing
+2026-02-13 16:31:47 - minor text cleanup
